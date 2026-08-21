@@ -14,8 +14,9 @@
 <h3>🎟️ JITO Skillathon — Event Ticketing Platform</h3>
 
 <p>
-  <strong>Freelance Client Project</strong> — Designed and developed a production-ready event ticketing platform for JITO Skillathon, featuring online registration, ticket booking, payment integration, QR-based ticket verification, email delivery, and an admin dashboard.
+  <strong>Freelance Client Project</strong> — Designed and developed a custom, production-ready ticketing platform for JITO Skillathon, featuring online registration, secure ticket booking and payment integration, QR-based ticket verification, automated email delivery, and a dedicated admin dashboard. The platform is currently live and actively being used for the upcoming event on <strong>30 August 2026</strong>.
 </p>
+
 
 <p>
   <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Razorpay
